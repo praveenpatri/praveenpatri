@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Praveen 👋
 
-<!--
-**praveenpatri/praveenpatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Technical Program Manager | AI Platforms | Cloud Infrastructure | Developer Productivity
 
-Here are some ideas to get you started:
+## Expertise
+- AI Platforms
+- Generative AI
+- Technical Program Management
+- Infrastructure
+- Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Building AI TPM portfolio projects
+- Launnching LLM systems
+- Exploring AI product management
+
+## Connect
+LinkedIn: [<My-linkedin>](https://www.linkedin.com/in/praveenpatri/)
