@@ -1,5 +1,5 @@
 # Praveen Patri
-### AI Technical Product Management | AI Platforms | Developer Infrastructure
+### AI Product & Technical Program Leader | AI Platforms, Developer Infrastructure & Agentic AI
 
 I work at the intersection of **AI, product strategy, and engineering execution** — turning complex technical problems into scalable products and platform capabilities.
 
